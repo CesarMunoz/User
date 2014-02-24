@@ -1,0 +1,8 @@
+*.sublime-keymap
+*.cache
+*.last-run
+*.system-ca-bundle
+Email Sign Up.sublime-snippet
+Package Control.sublime-settings
+Test Snippet.sublime-snippet
+Video.sublime-snippet
